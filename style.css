@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(158, 199, 247);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(187, 84, 15);
+}
+
+p {
+    text-indent: 40px;
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 700px;
+    margin-right: 100px;
+    vertical-align: baseline;
+}
+
+header {
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 45px;
+    background-color: coral;
+}
+
+nav li {
+    display: inline;
+    margin-left: 150px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+img {
+    border: 5px solid hsl(231, 90%, 27%);
+    margin: 10px;
+}
+
+.fotoarvore {
+    width: 500px;
+}
+
+.foto-arvore {
+    text-align: center;
+}
+.edu1{position:relative;bottom: 500px;}
